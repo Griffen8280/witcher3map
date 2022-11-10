@@ -1,0 +1,1 @@
+start-process -FilePath "$pwd\Assets\waterfox-portable\waterfox-portable.exe" -ArgumentList "-file `"$pwd`\Dist\index.html`""
